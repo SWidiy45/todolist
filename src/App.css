@@ -57,7 +57,12 @@ h1 {
   width: 72%;
 }
 
-.pdf-icon {
+.checkbox {
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
 }
 
 .download-button {
